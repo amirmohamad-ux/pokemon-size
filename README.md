@@ -1,2 +1,2 @@
-# pokemon-size
-detail of Pokemon
+# pokemon-size-api
+it's for learn more about api
